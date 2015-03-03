@@ -1,0 +1,5 @@
+[package]
+
+name = "elephant_http"
+version = "0.0.1"
+authors = ["migchez <migchez@umich.edu>"]
